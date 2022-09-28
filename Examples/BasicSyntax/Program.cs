@@ -4,16 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            // variable can have alphabet, digit or underscore and it must start with either alphabet or underscore
+            Console.WriteLine("Hello World");
+            // Variable can have alphabet, digit ot undrescore and it must start with either alphabet or underscore
             const int studentAge = 23;
-            string studentName = "jalaluddin";
+            Console.WriteLine(studentAge);
+            string studentName = "Jalal Uddin";
+            Console.WriteLine(studentName);
             bool isAdmitted = true;
-            double weight = 83.5;
+            Console.WriteLine(isAdmitted);
+            double weight = 23.5;
+            Console.WriteLine(weight);
             char initial = 'A';
+            Console.WriteLine(initial);
 
             string line = Console.ReadLine();
-
             string[] lineParts = line.Split(' ');
 
             for (int i = 0; i < lineParts.Length; i++)
