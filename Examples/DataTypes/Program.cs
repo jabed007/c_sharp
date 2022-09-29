@@ -84,11 +84,37 @@
 
             // ***Unsigned Integral***
             // -----------------------
-            // 3. ulong [Size: 64 bits, Range: 0 to 18,446,744,073,709,551,615, Default Value: 0]
+            // 4. ulong [Size: 64 bits, Range: 0 to 18,446,744,073,709,551,615, Default Value: 0]
             // Example:
 
             ulong range2 = 17091821871L;
             Console.WriteLine(range2);
+
+            // ***Floating Point***
+            // ---------------------
+            // 1. float [Size: 32 bits, Range: -3.402823e38 to 3.402823e38, Default Value: 0.0F [F at the end represent the value is of float type]]
+            // Example:
+
+            float number = 43.27F;
+            Console.WriteLine(number);
+
+            // ***Floating Point***
+            // ---------------------
+            // 2. double [Size: 64 bits, Range: -1.79769313486232e308 to 1.79769313486232e308, Default Value: 0.0D [D at the end represent the value is of double type]]
+            // Example:
+
+            double dValue = -11092.53D;
+            Console.WriteLine(dValue);
+
+            // ***Character (char)***
+            // ---------------------
+            // 1. char [Size: 16 bits, Range: U+0000 ('\u0000') to U+FFFF ('\uffff'), Default Value: '\0']
+            // Example:
+
+            char ch1 = '\uffff';
+            char ch2 = 'x';
+            Console.WriteLine(ch1);
+            Console.WriteLine(ch2);
         }
     }
 }
