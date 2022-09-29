@@ -123,6 +123,47 @@
 
             decimal bankBalance = 53005.25M;
             Console.WriteLine(bankBalance);
+
+            Console.WriteLine(double.MinValue);
+            Console.WriteLine(double.MaxValue);
+
+            Console.WriteLine(float.MinValue);
+            Console.WriteLine(float.MaxValue);
+
+            Console.WriteLine(decimal.MinValue);
+            Console.WriteLine(decimal.MaxValue);
+
+            // *****************************
+            // *** C sharp Literals ***
+            // *****************************
+
+            bool isValidLiteral = true;
+            bool isPresent = false;
+
+            Console.WriteLine(isValidLiteral);
+            Console.WriteLine(isPresent);
+
+            //long value1 = 4200910L;
+            //long value2 = -10928190L;
+
+            int decimalValue = 25;
+            int hexValue = 0x11c;
+
+            Console.WriteLine(decimalValue);
+            Console.WriteLine(hexValue);
+
+            //double dValue = 25.5;
+            float fValue = -12.29F;
+            double scientificNotation = 6.21e3;
+            Console.WriteLine(fValue);
+            Console.WriteLine(scientificNotation);
+
+            string firstName = "Richard";
+            string lastName = "Feyman";
+
+            Console.WriteLine(firstName);
+            Console.WriteLine(lastName);
+
         }
     }
 }
