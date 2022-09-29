@@ -115,6 +115,14 @@
             char ch2 = 'x';
             Console.WriteLine(ch1);
             Console.WriteLine(ch2);
+
+            // ***Decimal***
+            // ---------------------
+            // 1. decimal [Size: 128 bits, Range: -7.9 x 1028 to 7.9 x 1028, Default Value: 0.0M]
+            // Example
+
+            decimal bankBalance = 53005.25M;
+            Console.WriteLine(bankBalance);
         }
     }
 }
