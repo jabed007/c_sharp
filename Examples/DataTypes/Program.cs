@@ -164,6 +164,29 @@
             Console.WriteLine(firstName);
             Console.WriteLine(lastName);
 
+            // Class code practice
+            String s = "Hello";
+            Console.WriteLine(s);
+            string s2 = "World";
+            Console.WriteLine(s2);
+
+            Int32 i = 3;
+            Console.WriteLine(i);
+            int i2 = 4;
+            Console.WriteLine(i2);
+
+            Console.WriteLine(int.MinValue);
+            Console.WriteLine(int.MaxValue);
+
+            int size = 20;
+            int[] ages = new int[size];
+            ages[0] = 4;
+            ages[1] = 5;
+            int[] scores = new int[] { 4, 3 };
+
+            int a = ages[0];
+            scores[1] = 90;
+
         }
     }
 }
