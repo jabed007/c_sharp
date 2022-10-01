@@ -88,15 +88,41 @@
 
             // Example 4: Logical Operators
 
+            /***
             bool result;
             int firstNumber = 10, secondNumber = 20;
 
+            // OR Operator
             result = (firstNumber == secondNumber) || (firstNumber > 5);
             Console.WriteLine(result);
 
+            // AND Operator
             result = (firstNumber == secondNumber) && (firstNumber > 5);
             Console.WriteLine(result);
+            ***/
 
+            // *****************************
+            // ****** Unary Operator *******
+            // *****************************
+
+            // Example 5: Unary Operator
+
+            int number = 10, result;
+            bool flag = true;
+
+            result = +number;
+            Console.WriteLine("+number = " + result);
+
+            result = -number;
+            Console.WriteLine("-number = " + result);
+
+            result = ++number;
+            Console.WriteLine("++number = " + result);
+
+            result = --number;
+            Console.WriteLine("--number = " + result);
+
+            Console.WriteLine("!flag = " + (!flag));
         }
     }
 }
