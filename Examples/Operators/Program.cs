@@ -123,6 +123,14 @@
             Console.WriteLine("--number = " + result);
 
             Console.WriteLine("!flag = " + (!flag));
+
+            // Example 6: Post and Pre Increment operators in C#
+
+            Console.WriteLine(number++);
+            Console.WriteLine(number);
+
+            Console.WriteLine(++number);
+            Console.WriteLine(number);
         }
     }
 }
