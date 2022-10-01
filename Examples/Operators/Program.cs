@@ -163,6 +163,7 @@
 
             // Example 8: Bitwise and Bit Shift Operator
 
+            /***
             int firstNumber = 10;
             int secondNumber = 20;
             int result;
@@ -184,6 +185,45 @@
 
             result = firstNumber >> 2;
             Console.WriteLine("{0} >> 2 = {1}", firstNumber, result);
+            ***/
+
+            // ********************************************
+            // ****** Compound Assignment Operators *******
+            // ********************************************
+
+            // Example 9: Compound Assignment Operator
+
+            int number = 10;
+
+            number += 5;
+            Console.WriteLine(number);
+
+            number -= 3;
+            Console.WriteLine(number);
+
+            number *= 2;
+            Console.WriteLine(number);
+
+            number /= 3;
+            Console.WriteLine(number);
+
+            number %= 3;
+            Console.WriteLine(number);
+
+            number &= 10;
+            Console.WriteLine(number);
+
+            number |= 14;
+            Console.WriteLine(number);
+
+            number ^= 12;
+            Console.WriteLine(number);
+
+            number <<= 2;
+            Console.WriteLine(number);
+
+            number >>= 3;
+            Console.WriteLine(number);
         }
     }
 }
