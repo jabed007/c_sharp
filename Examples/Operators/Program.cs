@@ -193,6 +193,8 @@
 
             // Example 9: Compound Assignment Operator
 
+            /***
+
             int number = 10;
 
             number += 5;
@@ -224,6 +226,22 @@
 
             number >>= 3;
             Console.WriteLine(number);
+            ***/
+
+            // *******************************************************
+            // ****** C# Operator Precedence and Associativity *******
+            // *******************************************************
+
+            // Example 1: Operator Precedence
+
+            int result1;
+            int a = 5, b = 6, c = 4;
+            result1 = --a * b - ++c;
+            Console.WriteLine(result1);
+
+            bool result2;
+            result2 = b >= c + a;
+            Console.WriteLine(result2);
         }
     }
 }
