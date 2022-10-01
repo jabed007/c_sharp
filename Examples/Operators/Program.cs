@@ -10,7 +10,7 @@
 
             // Example 1: Basic Assignment Operator
 
-            /**
+            /***
             int firstNumber, secondNumber;
             // Assigning a constant to a variable
             firstNumber = 10;
@@ -19,12 +19,16 @@
             // Assigning a variable to another variable
             secondNumber = firstNumber;
             Console.WriteLine("Second Number = {0}", secondNumber);
-            **/
+            ***/
 
-            // Arithmetic Operators
+            // *****************************
+            // **** Arithmetic Operator ****
+            // *****************************
+
             // Arithmetic operators are used to perform arithmetic operations such as addition, subtraction, multiplication, division, etc.
             // Example 2: Arethmetic Operators
 
+            /***
             double firstNumber = 14.40, secondNumber = 4.60, result;
             int num1 = 26, num2 = 4, rem;
 
@@ -47,7 +51,35 @@
             // Modulo Operator
             rem = num1 % num2;
             Console.WriteLine("{0} % {1} = {2}", num1, num2, rem);
-             
+            ***/
+
+            // *****************************
+            // **** Relational Operator ****
+            // *****************************
+
+            // Example 3: Relational Operators
+
+            bool result;
+            int firstNumber = 10, secondNumber = 20;
+
+            result = (firstNumber == secondNumber);
+            Console.WriteLine("{0} == {1} returns {2}", firstNumber, secondNumber, result);
+
+            result = (firstNumber > secondNumber);
+            Console.WriteLine("{0} > {1} returns {2}", firstNumber, secondNumber, result);
+
+            result = (firstNumber < secondNumber);
+            Console.WriteLine("{0} < {1} returns {2}", firstNumber, secondNumber, result);
+
+            result = (firstNumber >= secondNumber);
+            Console.WriteLine("{0} >= {1} returns {2}", firstNumber, secondNumber, result);
+
+            result = (firstNumber <= secondNumber);
+            Console.WriteLine("{0} <= {1} returns {2}", firstNumber, secondNumber, result);
+
+            result = (firstNumber != secondNumber);
+            Console.WriteLine("{0} != {1} returns {2}", firstNumber, secondNumber, result);
+
         }
     }
 }
