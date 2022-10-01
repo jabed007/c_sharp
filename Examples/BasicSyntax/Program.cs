@@ -55,7 +55,8 @@
             ***/
 
             // Example 7: Difference between Read() and ReadKey() method
-            
+
+            /***
             int userInput;
 
             Console.WriteLine("Press any key to continue...");
@@ -65,8 +66,27 @@
             Console.Write("Input using Read() - ");
             userInput = Console.Read();
             Console.WriteLine(userInput);
+            ***/
 
-           
+            // Reading numeric values (Integer and floating point types)
+
+            // Example 8: Reading Numeric Values from User using Convert Class
+
+            string userInput;
+            int intVal;
+            double doubleVal;
+
+            Console.Write("Enter a integer value: ");
+            userInput = Console.ReadLine();
+            // Convert to integer type
+            intVal = Convert.ToInt32(userInput);
+            Console.WriteLine("You entered: {0}", intVal);
+
+            Console.Write("Enter a double value: ");
+            userInput= Console.ReadLine();
+            // Convert to double type
+            doubleVal = Convert.ToDouble(userInput);
+            Console.WriteLine("You entered: {0}", doubleVal);
         }
     }
 }
