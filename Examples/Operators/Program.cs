@@ -107,6 +107,7 @@
 
             // Example 5: Unary Operator
 
+            /***
             int number = 10, result;
             bool flag = true;
 
@@ -131,6 +132,32 @@
 
             Console.WriteLine(++number);
             Console.WriteLine(number);
+            ***/
+
+            // *****************************
+            // ****** Ternary Operator *****
+            // *****************************
+
+            // The ternary operator -- ? : -- operates on three operands. It is a shorthand for if-then-else statement. Ternary operator can be used as follows 
+            // variable = condition? Expression1 : Expression2;
+            // The ternary operator work as follows:
+            // If the expression stated by Condition is true, the result of Expression1 is assigned to variable
+            // If it is false, the result of Expression2 is assigned to variable.
+
+            // Example 7: Ternary Operator
+
+            /***
+            int number = 10;
+            string result;
+
+            result = (number % 2 == 0) ? "Even number" : "Odd Number";
+
+            Console.WriteLine("{0} is {1}", number, result);
+            ***/
+
+            // ********************************************
+            // ****** Bitwise and Bit Shift Operators *****
+            // ********************************************
         }
     }
 }
