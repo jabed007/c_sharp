@@ -70,6 +70,7 @@
             // Example 4: Nested if...else Statement
             // The following program computes the largest number among 3 numbers using nested if...else statement.
 
+            /****
             int firstNumber = 13, secondNumber = 7, thirdNumber = -23;
 
             if (firstNumber > secondNumber)
@@ -94,8 +95,37 @@
                     Console.WriteLine("{0} is Largest", thirdNumber);
                 }
             }
+            ***/
 
+            // **********************************
+            // ****** C# switch Statement *******
+            // **********************************
 
+            char ch;
+            Console.WriteLine("Enter an alphabet");
+            ch = Convert.ToChar(Console.ReadLine());
+
+            switch(char.ToLower(ch))
+            {
+                case 'a':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'e':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'i':
+                    Console.WriteLine("Vowel");
+                    break ;
+                case 'o':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'u':
+                    Console.WriteLine("Vowel");
+                    break;
+                default:
+                    Console.WriteLine("Consonant");
+                    break;
+            }
         }
     }
 }
