@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicSyntax", "BasicSyntax\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{60D454E1-5800-4EA0-A68B-2FEBA4A5FB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{4B4B7072-1E85-49F0-94CF-D2D73EF21EF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{4B4B7072-1E85-49F0-94CF-D2D73EF21EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow Control", "Flow Control\Flow Control.csproj", "{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4B4B7072-1E85-49F0-94CF-D2D73EF21EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4B7072-1E85-49F0-94CF-D2D73EF21EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4B7072-1E85-49F0-94CF-D2D73EF21EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
