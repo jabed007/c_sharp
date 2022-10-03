@@ -47,7 +47,8 @@
             // -------------------------------------------
 
             // Example 3: C# if...else if Statement
-            
+
+            /****
             int number = 12;
 
             if (number < 5)
@@ -61,6 +62,37 @@
             else
             {
                 Console.WriteLine("{0} is equal to 5", number);
+            }
+            ***/
+
+            // Nested if...else Statement
+            // --------------------------
+            // Example 4: Nested if...else Statement
+            // The following program computes the largest number among 3 numbers using nested if...else statement.
+
+            int firstNumber = 13, secondNumber = 7, thirdNumber = -23;
+
+            if (firstNumber > secondNumber)
+            {
+                if (firstNumber > thirdNumber)
+                {
+                    Console.WriteLine("{0} is the Largest", firstNumber);
+                }
+                else
+                {
+                    Console.WriteLine("{0} is Largest", thirdNumber);
+                }
+            }
+            else
+            {
+                if (secondNumber > thirdNumber)
+                {
+                    Console.WriteLine("{0} is Largest", secondNumber);
+                }
+                else
+                {
+                    Console.WriteLine("{0} is Largest", thirdNumber);
+                }
             }
 
 
