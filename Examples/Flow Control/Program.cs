@@ -101,6 +101,9 @@
             // ****** C# switch Statement *******
             // **********************************
 
+            // Example 1: C# switch Statement
+
+            /***
             char ch;
             Console.WriteLine("Enter an alphabet");
             ch = Convert.ToChar(Console.ReadLine());
@@ -123,7 +126,29 @@
                     Console.WriteLine("Vowel");
                     break;
                 default:
-                    Console.WriteLine("Consonant");
+                    Console.WriteLine("Not a Vowel");
+                    break;
+            }
+            ***/
+
+            // Example 2: C# switch Statement with grouped cases
+
+            char ch;
+            Console.WriteLine("Enter an alphabet");
+            ch = Convert.ToChar(Console.Read());
+
+            switch(char.ToLower(ch))
+            {
+                case 'a':
+                case 'e':
+                case 'i':
+                case 'o':
+                case 'u':
+                    Console.WriteLine("Vowel");
+                    break;
+
+                default:
+                    Console.WriteLine("Not a Vowel");
                     break;
             }
         }
