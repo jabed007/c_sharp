@@ -33,7 +33,7 @@ age[4] = 8;
 // Example C# Array
 
 // Create an Array
-int[] numbers = { 1, 2, 3 };
+int[] numbers = {30, 31, 94, 86, 55};
 
 // access first element
 Console.WriteLine("Element in first index: " + numbers[0]);
@@ -45,11 +45,11 @@ Console.WriteLine("Element in second index: " + numbers[1]);
 Console.WriteLine("Element in third index: " + numbers[2]);
 
 // 4. Change Array Elements
-Console.WriteLine("Old value at index 0: " + numbers[0]);
+//Console.WriteLine("Old value at index 0: " + numbers[0]);
 
-numbers[0] = 11;
-Console.WriteLine("New value at index 0: " + numbers[0]);
-Console.WriteLine();
+//numbers[0] = 11;
+//Console.WriteLine("New value at index 0: " + numbers[0]);
+//Console.WriteLine();
 
 //Console.ReadLine();
 
@@ -82,3 +82,19 @@ Console.WriteLine("Smallest Element: " + numbers.Min());
 
 // Max() returns the largest number in array
 Console.WriteLine("Largest Element: " + numbers.Max());
+
+// Example: Find the Average of an Array
+
+// Get the sum of all array elements
+float sum = numbers.Sum();  
+
+// Get total number of elements are present in the array
+int count = numbers.Count();
+
+// Find the average of the array
+float average = sum / count;
+
+Console.WriteLine("Average: " + average);
+
+// Compute the average
+Console.WriteLine("Average using average function: " + numbers.Average());
