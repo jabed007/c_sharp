@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// Provide us various Method to use in array
+using System.Linq;
+
 // ************************
 // ****** C# Arrays *******
 // ************************
@@ -68,3 +71,14 @@ foreach(int num in numbers)
 {
     Console.WriteLine(num);
 }
+
+// 6. C# Array Operations using System.Linq
+// Example: Find Minimum and Maximum Element
+
+Console.WriteLine();
+
+// Min() returns the minimum number in array
+Console.WriteLine("Smallest Element: " + numbers.Min());
+
+// Max() returns the largest number in array
+Console.WriteLine("Largest Element: " + numbers.Max());
