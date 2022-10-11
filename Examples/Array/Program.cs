@@ -40,3 +40,11 @@ Console.WriteLine("Element in second index: " + numbers[1]);
 
 // access third number
 Console.WriteLine("Element in third index: " + numbers[2]);
+
+// 4. Change Array Elements
+Console.WriteLine("Old value at index 0: " + numbers[0]);
+
+numbers[0] = 11;
+Console.WriteLine("New value at index 0: " + numbers[0]);
+
+Console.ReadLine();
