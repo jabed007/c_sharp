@@ -15,7 +15,7 @@ int[] age;
 // allocate memory for array
 age = new int[5];
 
-int[] num = new int[5];
+//int[] num = new int[5];
 
 // Array initializations in c#
 //int[] numbers = {1, 2, 3, 4, 5};
@@ -46,5 +46,25 @@ Console.WriteLine("Old value at index 0: " + numbers[0]);
 
 numbers[0] = 11;
 Console.WriteLine("New value at index 0: " + numbers[0]);
+Console.WriteLine();
 
-Console.ReadLine();
+//Console.ReadLine();
+
+// 5. Iterating C# Array using Loops
+// Example: Using for loop
+
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.WriteLine("Elements in index " + i + ": " + numbers[i]);
+}
+
+Console.WriteLine();
+
+// Example: Using foreach loop
+
+Console.WriteLine("Array Elements: ");
+
+foreach(int num in numbers)
+{
+    Console.WriteLine(num);
+}
