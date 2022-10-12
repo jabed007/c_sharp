@@ -98,3 +98,30 @@ Console.WriteLine("Average: " + average);
 
 // Compute the average
 Console.WriteLine("Average using average function: " + numbers.Average());
+Console.WriteLine();
+
+// ****************************************
+// ****** C# Multidimensional Array *******
+// ****************************************
+
+// In this tutorial we lesrn about the multidimensional array in C# using the example of two-dimensinal array
+
+int[,] x =
+{
+    { 1, 2, 3 },
+    { 4, 5, 6 }
+};
+
+int[,] array2D = new int[2, 3];
+int[,] arrayTwoDimension = new int[2, 3] { {1, 2, 3 }, {4, 5, 6 } };
+
+// Example: C# 2D Array
+
+// Initializing 2D Array
+int[,] numbers2D = { { 2, 3 }, { 4, 5 } };
+
+// access first element from the first row
+Console.WriteLine("Element at index [0, 0] : " + numbers2D[0, 0]);
+
+// access the first element from the second row
+Console.WriteLine("Element at index [1, 0] : " + numbers2D[1, 0]);
