@@ -137,3 +137,23 @@ numbers2D[0, 0] = 222;
 
 // Print new element at index [0, 0]
 Console.WriteLine("New element at index[0, 0]: " + numbers2D[0, 0]);
+Console.WriteLine();
+
+// Iterating C# Array using Loop
+int[,] numbers2DExample = { { 2, 3, 9 }, { 4, 5, 9 } };
+
+Console.WriteLine(numbers2DExample.GetLength(0));
+Console.WriteLine(numbers2DExample.GetLength(1));
+Console.WriteLine();
+
+for (int i = 0; i < numbers2DExample.GetLength(0); i++)
+{
+    Console.Write("Row " + i + ": ");
+
+    for (int j = 0; j < numbers2DExample.GetLength(1); j++)
+    {
+        Console.Write(numbers2DExample[i, j] + " ");
+    }
+
+    Console.WriteLine();
+}
