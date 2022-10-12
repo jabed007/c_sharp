@@ -125,3 +125,15 @@ Console.WriteLine("Element at index [0, 0] : " + numbers2D[0, 0]);
 
 // access the first element from the second row
 Console.WriteLine("Element at index [1, 0] : " + numbers2D[1, 0]);
+Console.WriteLine();
+
+// Change Array Elements
+
+// Old Element
+Console.WriteLine("Old element at index [0, 0] : " + numbers2D[0, 0]);
+
+// assigning new value at index[0, 0]
+numbers2D[0, 0] = 222;
+
+// Print new element at index [0, 0]
+Console.WriteLine("New element at index[0, 0]: " + numbers2D[0, 0]);
