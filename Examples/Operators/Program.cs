@@ -223,11 +223,29 @@
             numberC >>= 3;
             Console.WriteLine(numberC);
 
-            // *******************************************************
-            // ****** C# Operator Precedence and Associativity *******
-            // *******************************************************
+            // **************************************
+            // ****** C# Operator By DevSkill *******
+            // **************************************
 
-            
+            int i = 3;
+            Console.WriteLine(i); // output: 3
+            Console.WriteLine(i++); // output: 3
+            Console.WriteLine(i); // output: 4
+
+            double aa = 1.5;
+            Console.WriteLine(aa); // output: 1.5
+            Console.WriteLine(++aa); // output: 2.5
+            Console.WriteLine(aa); // output: 2.5
+
+            int i2 = 3;
+            Console.WriteLine(i2); // output: 3
+            Console.WriteLine(i2--); // output: 3
+            Console.WriteLine(i2); // output: 2
+
+            double aa2 = 1.5;
+            Console.WriteLine(aa2); // output 1.5
+            Console.WriteLine(--aa2); // output 0.5
+            Console.WriteLine(aa2); // output 0.5
         }
     }
 }
