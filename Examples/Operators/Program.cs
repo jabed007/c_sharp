@@ -246,6 +246,12 @@
             Console.WriteLine(aa2); // output 1.5
             Console.WriteLine(--aa2); // output 0.5
             Console.WriteLine(aa2); // output 0.5
+
+            // Unary plus and minus operators
+            Console.WriteLine(+4); 	// output: 4
+            Console.WriteLine(-4); 	// output: -4
+            Console.WriteLine(-(-4));  // output: 4
+
         }
     }
 }
