@@ -228,3 +228,55 @@ jaggedArray[0][2] = 5;
 // initialize the second array
 jaggedArray[1][0] = 2;
 jaggedArray[1][1] = 4;
+
+// 2. Initialize without setting size of array elements
+
+// declaring jagged array
+int[][] jaggedArray2D = new int[2][];
+jaggedArray2D[0] = new int[] {1, 2, 3 };
+jaggedArray2D[1] = new int[] { 4, 5, 6, 7 };
+
+// 3. Initialize while declaring jagged array
+int[][] jaggedArray2D2 =
+{
+    new int[] { 1, 2, 3 },
+    new int[] { 4, 5, 6 },
+    new int[] { 7, 8 }
+};
+
+// Accessing elements of a jagged array
+
+// Print elements of a jagged array
+Console.WriteLine("jageddArray2D2[1][0]: " + jaggedArray2D2[1][0]);
+Console.WriteLine("jaggedArray2D2[1][1]: " + jaggedArray2D2[1][1]);
+
+Console.WriteLine("jaggedArray2D2[0][2]: " + jaggedArray2D2[0][2]);
+
+// Iterating through a jagged array
+
+// declare a jagged array
+int[][] jaggedArr = new int[2][];
+
+// intialize first row
+jaggedArr[0] = new int[3];
+jaggedArr[0][0] = 10;
+jaggedArr[0][1] = 20;
+jaggedArr[0][2] = 30;
+
+// initialize second row
+jaggedArr[1] = new int[2];
+jaggedArr[1][0] = 40;
+jaggedArr[1][1] = 50;
+
+// print value of jagged array
+for (int i = 0; i < jaggedArr.Length; i++)
+{
+    Console.Write("Row " + i + ": ");
+
+    for (int j = 0; j < jaggedArr[i].Length; j++)
+    {
+        Console.Write(jaggedArr[i][j] + " ");
+    }
+
+    Console.WriteLine();
+}
