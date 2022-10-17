@@ -10,7 +10,17 @@ using System.Linq;
 // An Array is a collection of similar types of data
 // Suppose we need to record the age of 5 students. Instead of creating 5 separate variables, we can simply create an array
 
+
+
 // 1. C# Array Declaration
+
+// Class code of DevSkill
+int[] ages = new int[20];
+ages = new int[30];
+ages[0] = 23;
+ages[1] = 33;
+ages[2] = 32;
+ages[19] = 36;
 
 // declare an array
 int[] age;
@@ -104,7 +114,20 @@ Console.WriteLine();
 // ****** C# Multidimensional Array *******
 // ****************************************
 
-// In this tutorial we lesrn about the multidimensional array in C# using the example of two-dimensinal array
+// In this tutorial we learn about the multidimensional array in C# using the example of two-dimensinal array
+
+// Class code of DevSkill
+int[,] board = new int[20, 20];
+board[0, 0] = 1;
+board[0, 1] = 3;
+board[2, 2] = 5;
+
+int temp = board[2, 2];
+
+// 3D Array
+int[,,] cube = new int[30,30,30];
+cube[3, 3, 3] = 9;
+
 
 int[,] x =
 {
@@ -157,3 +180,51 @@ for (int i = 0; i < numbers2DExample.GetLength(0); i++)
 
     Console.WriteLine();
 }
+
+
+// ******************************
+// ****** C# Jagged Array *******
+// ******************************
+
+// Class code of DevSkill
+int[][] jagged2D = new int[20][];
+jagged2D[0] = new int[10];
+jagged2D[1] = new int[20];
+
+jagged2D[1][2] = 50;
+
+// 3D Jagged Array
+int[][][] jagged3D = new int[20][][];
+jagged3D[0] = new int[20][];
+jagged3D[1] = new int[10][];
+
+// C# Jagged Array Declaration
+// Here's a syntax to declare a jagged array in C#
+
+// dataType[][] nameOfArray = new dataType[rows][];
+// Lets see an Example
+
+// declare jagged array
+int[][] jaggedArray = new int[2][];
+
+// since we know each element of Jagged Array is also an array, we can set the size of individual array
+
+// set size of the first array as 3
+jaggedArray[0] = new int[3];
+
+// set size of the second array as 2
+jaggedArray[1] = new int[2];
+
+// Initializing Jagged Array
+// There are diferent ways to initialize a jagged array. For example
+// 1. Using the index number
+// Once we declared a jagged array, we can use the index number to initialize it. For example
+
+// initialze the first array
+jaggedArray[0][0] = 1;
+jaggedArray[0][1] = 3;
+jaggedArray[0][2] = 5;
+
+// initialize the second array
+jaggedArray[1][0] = 2;
+jaggedArray[1][1] = 4;
