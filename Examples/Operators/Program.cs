@@ -10,7 +10,7 @@
 
             // Example 1: Basic Assignment Operator
 
-            /***
+            
             int firstNumber, secondNumber;
             // Assigning a constant to a variable
             firstNumber = 10;
@@ -19,7 +19,7 @@
             // Assigning a variable to another variable
             secondNumber = firstNumber;
             Console.WriteLine("Second Number = {0}", secondNumber);
-            ***/
+            
 
             // *****************************
             // **** Arithmetic Operator ****
@@ -28,30 +28,30 @@
             // Arithmetic operators are used to perform arithmetic operations such as addition, subtraction, multiplication, division, etc.
             // Example 2: Arethmetic Operators
 
-            /***
-            double firstNumber = 14.40, secondNumber = 4.60, result;
+            
+            double firstNumberD = 14.40, secondNumberD = 4.60, result;
             int num1 = 26, num2 = 4, rem;
 
             // Addition Operator
-            result = firstNumber + secondNumber;
-            Console.WriteLine("{0} + {1} = {2}", firstNumber, secondNumber, result);
+            result = firstNumberD + secondNumberD;
+            Console.WriteLine("{0} + {1} = {2}", firstNumberD, secondNumberD, result);
 
             // Subtraction Operator
-            result = firstNumber - secondNumber;
-            Console.WriteLine("{0} - {1} = {2}", firstNumber, secondNumber, result);
+            result = firstNumberD - secondNumberD;
+            Console.WriteLine("{0} - {1} = {2}", firstNumberD, secondNumberD, result);
 
             // Multiplication Operator
-            result = firstNumber * secondNumber;
-            Console.WriteLine("{0} * {1} = {2}", firstNumber, secondNumber, result);
+            result = firstNumberD * secondNumberD;
+            Console.WriteLine("{0} * {1} = {2}", firstNumberD, secondNumberD, result);
 
             // Division Operator
-            result = firstNumber / secondNumber;
-            Console.WriteLine("{0} / {1} = {2}", firstNumber, secondNumber, result);
+            result = firstNumberD / secondNumberD;
+            Console.WriteLine("{0} / {1} = {2}", firstNumberD, secondNumberD, result);
 
             // Modulo Operator
             rem = num1 % num2;
             Console.WriteLine("{0} % {1} = {2}", num1, num2, rem);
-            ***/
+            
 
             // *****************************
             // **** Relational Operator ****
@@ -59,28 +59,28 @@
 
             // Example 3: Relational Operators
 
-            /***
-            bool result;
-            int firstNumber = 10, secondNumber = 20;
+            
+            bool resultR;
+            int firstNumberR = 10, secondNumberR = 20;
 
-            result = (firstNumber == secondNumber);
-            Console.WriteLine("{0} == {1} returns {2}", firstNumber, secondNumber, result);
+            resultR = (firstNumberR == secondNumberR);
+            Console.WriteLine("{0} == {1} returns {2}", firstNumberR, secondNumberR, resultR);
 
-            result = (firstNumber > secondNumber);
-            Console.WriteLine("{0} > {1} returns {2}", firstNumber, secondNumber, result);
+            resultR = (firstNumberR > secondNumberR);
+            Console.WriteLine("{0} > {1} returns {2}", firstNumberR, secondNumberR, resultR);
 
-            result = (firstNumber < secondNumber);
-            Console.WriteLine("{0} < {1} returns {2}", firstNumber, secondNumber, result);
+            resultR = (firstNumberR < secondNumberR);
+            Console.WriteLine("{0} < {1} returns {2}", firstNumberR, secondNumberR, resultR);
 
-            result = (firstNumber >= secondNumber);
-            Console.WriteLine("{0} >= {1} returns {2}", firstNumber, secondNumber, result);
+            resultR = (firstNumberR >= secondNumberR);
+            Console.WriteLine("{0} >= {1} returns {2}", firstNumberR, secondNumberR, resultR);
 
-            result = (firstNumber <= secondNumber);
-            Console.WriteLine("{0} <= {1} returns {2}", firstNumber, secondNumber, result);
+            resultR = (firstNumberR <= secondNumberR);
+            Console.WriteLine("{0} <= {1} returns {2}", firstNumberR, secondNumberR, resultR);
 
-            result = (firstNumber != secondNumber);
-            Console.WriteLine("{0} != {1} returns {2}", firstNumber, secondNumber, result);
-            ***/
+            resultR = (firstNumberR != secondNumberR);
+            Console.WriteLine("{0} != {1} returns {2}", firstNumberR, secondNumberR, resultR);
+           
 
             // *****************************
             // ****** Logical Operator *****
@@ -88,18 +88,18 @@
 
             // Example 4: Logical Operators
 
-            /***
-            bool result;
-            int firstNumber = 10, secondNumber = 20;
+           
+            bool resultL;
+            int firstNumberL = 10, secondNumberL = 20;
 
             // OR Operator
-            result = (firstNumber == secondNumber) || (firstNumber > 5);
-            Console.WriteLine(result);
+            resultL = (firstNumberL == secondNumberL) || (firstNumberL > 5);
+            Console.WriteLine(resultL);
 
             // AND Operator
-            result = (firstNumber == secondNumber) && (firstNumber > 5);
-            Console.WriteLine(result);
-            ***/
+            resultL = (firstNumberL == secondNumberL) && (firstNumberL > 5);
+            Console.WriteLine(resultL);
+            
 
             // *****************************
             // ****** Unary Operator *******
@@ -107,32 +107,32 @@
 
             // Example 5: Unary Operator
 
-            /***
-            int number = 10, result;
+            
+            int numberUn = 10, resultUn;
             bool flag = true;
 
-            result = +number;
-            Console.WriteLine("+number = " + result);
+            resultUn = +numberUn;
+            Console.WriteLine("+numberUn = " + resultUn);
 
-            result = -number;
-            Console.WriteLine("-number = " + result);
+            resultUn = -numberUn;
+            Console.WriteLine("-numberUn = " + resultUn);
 
-            result = ++number;
-            Console.WriteLine("++number = " + result);
+            resultUn = ++numberUn;
+            Console.WriteLine("++numberUn = " + resultUn);
 
-            result = --number;
-            Console.WriteLine("--number = " + result);
+            resultUn = --numberUn;
+            Console.WriteLine("--numberUn = " + resultUn);
 
             Console.WriteLine("!flag = " + (!flag));
 
             // Example 6: Post and Pre Increment operators in C#
 
-            Console.WriteLine(number++);
-            Console.WriteLine(number);
+            Console.WriteLine(numberUn++);
+            Console.WriteLine(numberUn);
 
-            Console.WriteLine(++number);
-            Console.WriteLine(number);
-            ***/
+            Console.WriteLine(++numberUn);
+            Console.WriteLine(numberUn);
+            
 
             // *****************************
             // ****** Ternary Operator *****
@@ -146,14 +146,13 @@
 
             // Example 7: Ternary Operator
 
-            /***
-            int number = 10;
-            string result;
+            
+            int numberT = 10;
+            string resultT;
 
-            result = (number % 2 == 0) ? "Even number" : "Odd Number";
+            resultT = (numberT % 2 == 0) ? "Even number" : "Odd Number";
 
-            Console.WriteLine("{0} is {1}", number, result);
-            ***/
+            Console.WriteLine("{0} is {1}", numberT, resultT);
 
             // ********************************************
             // ****** Bitwise and Bit Shift Operators *****
@@ -163,29 +162,27 @@
 
             // Example 8: Bitwise and Bit Shift Operator
 
-            /***
-            int firstNumber = 10;
-            int secondNumber = 20;
-            int result;
+            int firstNumberB = 10;
+            int secondNumberB = 20;
+            int resultB;
 
-            result = ~firstNumber;
-            Console.WriteLine("~{0} = {1}", firstNumber, result);
+            resultB = ~firstNumberB;
+            Console.WriteLine("~{0} = {1}", firstNumberB, resultB);
 
-            result = (firstNumber & secondNumber);
-            Console.WriteLine("{0} & {1} = {2}", firstNumber, secondNumber, result);
+            result = (firstNumberB & secondNumberB);
+            Console.WriteLine("{0} & {1} = {2}", firstNumberB, secondNumberB, resultB);
 
-            result = (firstNumber | secondNumber);
-            Console.WriteLine("{0} | {1} = {2}", firstNumber, secondNumber, result);
+            resultB = (firstNumberB | secondNumberB);
+            Console.WriteLine("{0} | {1} = {2}", firstNumberB, secondNumberB, resultB);
 
-            result = (firstNumber ^ secondNumber);
-            Console.WriteLine("{0} ^ {1} = {2}", firstNumber, secondNumber, result);
+            resultB = (firstNumberB ^ secondNumberB);
+            Console.WriteLine("{0} ^ {1} = {2}", firstNumberB, secondNumberB, resultB);
 
-            result = firstNumber << 2;
-            Console.WriteLine("{0} << 2 = {1}", firstNumber, result);
+            resultB = firstNumberB << 2;
+            Console.WriteLine("{0} << 2 = {1}", firstNumberB, resultB);
 
-            result = firstNumber >> 2;
-            Console.WriteLine("{0} >> 2 = {1}", firstNumber, result);
-            ***/
+            resultB = firstNumberB >> 2;
+            Console.WriteLine("{0} >> 2 = {1}", firstNumberB, resultB);
 
             // ********************************************
             // ****** Compound Assignment Operators *******
@@ -193,55 +190,44 @@
 
             // Example 9: Compound Assignment Operator
 
-            /***
 
-            int number = 10;
+            int numberC = 10;
 
-            number += 5;
-            Console.WriteLine(number);
+            numberC += 5;
+            Console.WriteLine(numberC);
 
-            number -= 3;
-            Console.WriteLine(number);
+            numberC -= 3;
+            Console.WriteLine(numberC);
 
-            number *= 2;
-            Console.WriteLine(number);
+            numberC *= 2;
+            Console.WriteLine(numberC);
 
-            number /= 3;
-            Console.WriteLine(number);
+            numberC /= 3;
+            Console.WriteLine(numberC);
 
-            number %= 3;
-            Console.WriteLine(number);
+            numberC %= 3;
+            Console.WriteLine(numberC);
 
-            number &= 10;
-            Console.WriteLine(number);
+            numberC &= 10;
+            Console.WriteLine(numberC);
 
-            number |= 14;
-            Console.WriteLine(number);
+            numberC |= 14;
+            Console.WriteLine(numberC);
 
-            number ^= 12;
-            Console.WriteLine(number);
+            numberC ^= 12;
+            Console.WriteLine(numberC);
 
-            number <<= 2;
-            Console.WriteLine(number);
+            numberC <<= 2;
+            Console.WriteLine(numberC);
 
-            number >>= 3;
-            Console.WriteLine(number);
-            ***/
+            numberC >>= 3;
+            Console.WriteLine(numberC);
 
             // *******************************************************
             // ****** C# Operator Precedence and Associativity *******
             // *******************************************************
 
-            // Example 1: Operator Precedence
-
-            int result1;
-            int a = 5, b = 6, c = 4;
-            result1 = --a * b - ++c;
-            Console.WriteLine(result1);
-
-            bool result2;
-            result2 = b >= c + a;
-            Console.WriteLine(result2);
+            
         }
     }
 }
