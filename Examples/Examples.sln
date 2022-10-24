@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Oper
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow Control", "Flow Control\Flow Control.csproj", "{D10BC3F5-D5F0-4C54-8359-3CBF289A0C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{7B7A9BFB-8FA1-42BA-BDE7-C3123C1DD69C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{7B7A9BFB-8FA1-42BA-BDE7-C3123C1DD69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{CA4E812E-7161-42C6-91DE-480B252904F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7B7A9BFB-8FA1-42BA-BDE7-C3123C1DD69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7A9BFB-8FA1-42BA-BDE7-C3123C1DD69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B7A9BFB-8FA1-42BA-BDE7-C3123C1DD69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4E812E-7161-42C6-91DE-480B252904F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4E812E-7161-42C6-91DE-480B252904F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4E812E-7161-42C6-91DE-480B252904F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4E812E-7161-42C6-91DE-480B252904F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

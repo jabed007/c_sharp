@@ -298,7 +298,9 @@
             x %= 3;
             Console.WriteLine(x);  // output: 2
 
+            // Bitwise complement operator
 
+            uint t = 0b_00;
 
         }
     }
