@@ -1,5 +1,5 @@
 ﻿
-namespace OOP
+namespace Object.Oriented.Programming
 {
     // Class name is always noun
     public class WaterBottle
@@ -13,6 +13,13 @@ namespace OOP
         public bool IsOpen { get; set; }
 
         // Constructor
+        // Default Constructor
+        public WaterBottle() : this ("Yellow", 100) // Constructor Chaining
+        {
+            // Code
+        }
+
+        // Constructor Over Loading
         public WaterBottle(string color, double capacity)
         {
             this.color = color;
@@ -21,6 +28,11 @@ namespace OOP
                 this.capacity = 100;
             }
             else this.capacity = capacity;
+        }
+
+        public WaterBottle(string color)
+        {
+            this.color = color;
         }
 
         // Get color
@@ -46,6 +58,17 @@ namespace OOP
 
         // Add water using method
         public void AddWater(double amount)
+        {
+            waterAmount += amount;
+        }
+
+        // Method OverLoading
+        public void AddWater(double amount, string s)
+        {
+            waterAmount += amount;
+        }
+
+        public void AddWater(string s, double amount)
         {
             waterAmount += amount;
         }
@@ -78,5 +101,12 @@ namespace OOP
         //    }
         //    set { isOpen = value; }
         //}
+
+        // Finalizer
+        ~WaterBottle()
+        {
+            this.color = null;
+            this.waterAmount = 0;
+        }
     }
 }

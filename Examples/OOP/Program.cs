@@ -1,4 +1,4 @@
-﻿using OOP;
+﻿using Object.Oriented.Programming;
 
 public class Program
 {
@@ -9,6 +9,10 @@ public class Program
 
         // Add water using Method
         bottle.AddWater(200);
+
+        bottle.IsOpen = true;
+
+        Console.WriteLine(bottle.IsOpen);
 
         //bottle.color = "red"; // produce compilation error
 
@@ -32,5 +36,8 @@ public class Program
         // Get color using property
         Console.WriteLine(bottle.Color);
         Console.WriteLine(bottle2.Color);
+
+        // Create a Parameter Less Object
+        WaterBottle bottle3 = new WaterBottle();  // This object called the empty constructor() 
     }
 }
