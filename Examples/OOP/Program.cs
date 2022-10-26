@@ -1,4 +1,5 @@
 ﻿using Object.Oriented.Programming;
+using OOP;
 
 public class Program
 {
@@ -38,6 +39,33 @@ public class Program
         Console.WriteLine(bottle2.Color);
 
         // Create a Parameter Less Object
-        WaterBottle bottle3 = new WaterBottle();  // This object called the empty constructor() 
+        WaterBottle bottle3 = new WaterBottle();  // This object called the empty constructor()
+
+        Dog bullDog = new Dog();
+
+        // access breed of the Dog Class
+        bullDog.breed = "Bull Dog";
+        Console.WriteLine(bullDog.breed);
+
+        // access method of the Dog
+        bullDog.Bark();
+
+        // Creating Multiple Objects of a Class
+        // Create Employee Object
+        Employee sheeran = new Employee();
+
+        // Set department for sheeran
+        sheeran.department = "Development";
+        Console.WriteLine("Sheeran: " + sheeran.department);
+
+        // Create second object of Employee
+        Employee taylor = new Employee();
+
+        // set department for taylor
+        taylor.department = "Content Writer";
+        Console.WriteLine("Taylor: " + taylor.department);
+
+        // Creating objects in a different class
+
     }
 }
