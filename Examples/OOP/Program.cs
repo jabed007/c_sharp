@@ -1,6 +1,4 @@
 ﻿using Object.Oriented.Programming;
-using OOP;
-
 public class Program
 {
     public static void Main(string[] args)
@@ -40,7 +38,7 @@ public class Program
 
         // Create a Parameter Less Object
         WaterBottle bottle3 = new WaterBottle();  // This object called the empty constructor()
-
+        /*
         Dog bullDog = new Dog();
 
         // access breed of the Dog Class
@@ -66,6 +64,7 @@ public class Program
         Console.WriteLine("Taylor: " + taylor.department);
 
         // Creating objects in a different class
+        */
 
     }
 }

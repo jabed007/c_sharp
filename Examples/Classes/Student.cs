@@ -7,40 +7,17 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    internal class Student
+    internal class Student : Person
     {
         // Class have two things 1.Field  2.Method
         // Field
         //public string name;
-        public string Name { get; set; } // Auto Property
+        
 
         //public DateTime dateOfBirth;
-        public DateTime DateOfBirth { get; set; } // Auto Property
+        
 
         //public string address;
-        public string Address { get; set; } // Auto Property
-
-        private double cgpa;
-
-        private readonly string studentId;
-
-        private const double MAX_CGPA = 4.0;
-
-
-        // Method
-
-        public double GetCgpa()
-        {
-            return cgpa;
-        }
-        public void UpdateCgpa(double newCgpa)
-        {
-            if (newCgpa >= 0)
-            {
-                cgpa = newCgpa;
-            }
-        }
-
 
         // Property
         // This Property is used instead of UpdateCgpa() Method
@@ -59,6 +36,30 @@ namespace Classes
             }
         }
 
+        // Field
+
+        private double cgpa;
+
+        private readonly string studentId = "";
+
+        private const double MAX_CGPA = 4.0;
+
+
+        // Method
+
+
+        public double GetCgpa()
+        {
+            return cgpa;
+        }
+        public void UpdateCgpa(double newCgpa)
+        {
+            if (newCgpa >= 0)
+            {
+                cgpa = newCgpa;
+            }
+        }
+
         // Constructor or special Method
         // Invisible default constructor when there is no define constructor
         public Student() : this(string.Empty, string.Empty, DateTime.MinValue) // Constructor Chaining // Empty Constructor // Empty constructor basically use to set default value of an object Property
@@ -69,15 +70,15 @@ namespace Classes
             //Address = "N/A";
             //DateOfBirth = DateTime.MinValue;
             //cgpa = 0;
+            
         }
 
-        public Student(string name, string address, DateTime dateOfBirth) // Parameterized Constructor
+        public Student(string name, string address, DateTime dateOfBirth) : base("SD") // Parameterized Constructor
         {
             Name = name;
             Address = address;
             DateOfBirth = dateOfBirth;
             cgpa = 0;
-            //studentId = name.ToUpper().Substring(0, 2) + dateOfBirth.Year;
         }
 
         public void UpdateDetails(string name)
