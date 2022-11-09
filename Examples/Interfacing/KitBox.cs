@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Interfacing
 {
-    internal class KitBox
+    public class KitBox
     {
+        public void AddContainer(IContainer container)
+        {
+
+        }
     }
 }

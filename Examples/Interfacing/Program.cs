@@ -15,8 +15,18 @@
 
             var color = b.Color;
 
-            c.Open();
-            c.Close();  
+            //c.Open();
+            c.Close();
+            
+            KitBox kitBox = new KitBox();
+            kitBox.AddContainer(a);
+            kitBox.AddContainer(new Bottle());
+
+            //WaterBottle waterBottle = new WaterBottle();
+            //waterBottle.Open();
+            
+            Bottle wb = new WaterBottle();
+            wb.Open();
         }
     }
 }

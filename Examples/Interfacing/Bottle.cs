@@ -26,6 +26,7 @@ namespace Interfacing
         public void Open()
         {
             isOpen=true;
+            Console.WriteLine("Open from Bottle class");
         }
 
         public void RemoveContent(double amount)
