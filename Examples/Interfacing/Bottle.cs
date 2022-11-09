@@ -33,5 +33,10 @@ namespace Interfacing
         {
             contentAmount -= amount;
         }
+
+        public virtual double GetCurrentContentAmount()
+        {
+            return contentAmount;
+        }
     }
 }
