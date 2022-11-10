@@ -12,5 +12,10 @@ namespace OOP2
         {
             Balance = 100;
         }
+
+        public override int GetAge()
+        {
+            return DateTime.Now.Subtract(DateOfBirth).Days;
+        }
     }
 }

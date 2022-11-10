@@ -20,7 +20,7 @@ namespace OOP2
             Id = id;
             Balance = 50;
         }
-        public int GetAge()
+        public virtual int GetAge()
         {
             return DateTime.Now.Year - DateOfBirth.Year;
         }
