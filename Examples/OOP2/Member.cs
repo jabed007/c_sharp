@@ -8,6 +8,8 @@ namespace OOP2
 {
     public class Member
     {
+        private const string MemberName = "ABCD"; // const only use when declaring a variable it not change after
+        private readonly int serial; // readonly only can set in field not property and it can access only in constructor not any other else
         private int Id { get; set; }
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
@@ -19,6 +21,7 @@ namespace OOP2
         {
             Id = id;
             Balance = 50;
+            serial = 0;
         }
         public virtual int GetAge()
         {
