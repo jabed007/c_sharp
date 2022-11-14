@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Enums\bin\Debug\net6.0\Enums.exe
+G:\Code\csharp\csharp\Examples\Enums\bin\Debug\net6.0\Enums.deps.json
+G:\Code\csharp\csharp\Examples\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Enums\bin\Debug\net6.0\Enums.dll
+G:\Code\csharp\csharp\Examples\Enums\bin\Debug\net6.0\Enums.pdb
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.dll
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\refint\Enums.dll
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.pdb
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Enums\obj\Debug\net6.0\ref\Enums.dll

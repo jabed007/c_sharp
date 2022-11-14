@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\PartialClassExample\bin\Debug\net6.0\PartialClassExample.exe
+G:\Code\csharp\csharp\Examples\PartialClassExample\bin\Debug\net6.0\PartialClassExample.deps.json
+G:\Code\csharp\csharp\Examples\PartialClassExample\bin\Debug\net6.0\PartialClassExample.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\PartialClassExample\bin\Debug\net6.0\PartialClassExample.dll
+G:\Code\csharp\csharp\Examples\PartialClassExample\bin\Debug\net6.0\PartialClassExample.pdb
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.dll
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExample.dll
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll

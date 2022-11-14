@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\OOP\bin\Debug\net6.0\OOP.exe
+G:\Code\csharp\csharp\Examples\OOP\bin\Debug\net6.0\OOP.deps.json
+G:\Code\csharp\csharp\Examples\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\OOP\bin\Debug\net6.0\OOP.dll
+G:\Code\csharp\csharp\Examples\OOP\bin\Debug\net6.0\OOP.pdb
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.dll
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\refint\OOP.dll
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.pdb
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\OOP\obj\Debug\net6.0\ref\OOP.dll

@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\BasicSyntax\bin\Debug\net6.0\BasicSyntax.exe
+G:\Code\csharp\csharp\Examples\BasicSyntax\bin\Debug\net6.0\BasicSyntax.deps.json
+G:\Code\csharp\csharp\Examples\BasicSyntax\bin\Debug\net6.0\BasicSyntax.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\BasicSyntax\bin\Debug\net6.0\BasicSyntax.dll
+G:\Code\csharp\csharp\Examples\BasicSyntax\bin\Debug\net6.0\BasicSyntax.pdb
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.dll
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\refint\BasicSyntax.dll
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.pdb
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\BasicSyntax.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\BasicSyntax\obj\Debug\net6.0\ref\BasicSyntax.dll

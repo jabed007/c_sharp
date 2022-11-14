@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\StaticClass\bin\Debug\net6.0\StaticClass.exe
+G:\Code\csharp\csharp\Examples\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+G:\Code\csharp\csharp\Examples\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\StaticClass\bin\Debug\net6.0\StaticClass.dll
+G:\Code\csharp\csharp\Examples\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.dll
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

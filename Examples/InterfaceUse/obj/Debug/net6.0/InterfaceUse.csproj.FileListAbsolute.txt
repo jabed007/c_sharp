@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\InterfaceUse\bin\Debug\net6.0\InterfaceUse.exe
+G:\Code\csharp\csharp\Examples\InterfaceUse\bin\Debug\net6.0\InterfaceUse.deps.json
+G:\Code\csharp\csharp\Examples\InterfaceUse\bin\Debug\net6.0\InterfaceUse.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\InterfaceUse\bin\Debug\net6.0\InterfaceUse.dll
+G:\Code\csharp\csharp\Examples\InterfaceUse\bin\Debug\net6.0\InterfaceUse.pdb
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.dll
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\refint\InterfaceUse.dll
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.pdb
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\InterfaceUse.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\InterfaceUse\obj\Debug\net6.0\ref\InterfaceUse.dll

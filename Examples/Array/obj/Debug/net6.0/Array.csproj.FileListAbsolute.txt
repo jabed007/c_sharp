@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Array\bin\Debug\net6.0\Array.exe
+G:\Code\csharp\csharp\Examples\Array\bin\Debug\net6.0\Array.deps.json
+G:\Code\csharp\csharp\Examples\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Array\bin\Debug\net6.0\Array.dll
+G:\Code\csharp\csharp\Examples\Array\bin\Debug\net6.0\Array.pdb
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.dll
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\refint\Array.dll
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.pdb
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Array\obj\Debug\net6.0\ref\Array.dll

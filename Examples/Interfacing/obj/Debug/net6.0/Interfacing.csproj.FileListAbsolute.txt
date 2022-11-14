@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Interfacing\bin\Debug\net6.0\Interfacing.exe
+G:\Code\csharp\csharp\Examples\Interfacing\bin\Debug\net6.0\Interfacing.deps.json
+G:\Code\csharp\csharp\Examples\Interfacing\bin\Debug\net6.0\Interfacing.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Interfacing\bin\Debug\net6.0\Interfacing.dll
+G:\Code\csharp\csharp\Examples\Interfacing\bin\Debug\net6.0\Interfacing.pdb
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.dll
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\refint\Interfacing.dll
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.pdb
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\Interfacing.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Interfacing\obj\Debug\net6.0\ref\Interfacing.dll

@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Operators\bin\Debug\net6.0\Operators.exe
+G:\Code\csharp\csharp\Examples\Operators\bin\Debug\net6.0\Operators.deps.json
+G:\Code\csharp\csharp\Examples\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Operators\bin\Debug\net6.0\Operators.dll
+G:\Code\csharp\csharp\Examples\Operators\bin\Debug\net6.0\Operators.pdb
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.dll
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\refint\Operators.dll
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.pdb
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Operators\obj\Debug\net6.0\ref\Operators.dll

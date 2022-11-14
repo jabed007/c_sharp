@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\StructureExample\bin\Debug\net6.0\StructureExample.exe
+G:\Code\csharp\csharp\Examples\StructureExample\bin\Debug\net6.0\StructureExample.deps.json
+G:\Code\csharp\csharp\Examples\StructureExample\bin\Debug\net6.0\StructureExample.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\StructureExample\bin\Debug\net6.0\StructureExample.dll
+G:\Code\csharp\csharp\Examples\StructureExample\bin\Debug\net6.0\StructureExample.pdb
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.dll
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\refint\StructureExample.dll
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.pdb
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\StructureExample.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\StructureExample\obj\Debug\net6.0\ref\StructureExample.dll

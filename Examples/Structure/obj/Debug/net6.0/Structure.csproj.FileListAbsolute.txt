@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Structure\bin\Debug\net6.0\Structure.exe
+G:\Code\csharp\csharp\Examples\Structure\bin\Debug\net6.0\Structure.deps.json
+G:\Code\csharp\csharp\Examples\Structure\bin\Debug\net6.0\Structure.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Structure\bin\Debug\net6.0\Structure.dll
+G:\Code\csharp\csharp\Examples\Structure\bin\Debug\net6.0\Structure.pdb
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.dll
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\refint\Structure.dll
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.pdb
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\Structure.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Structure\obj\Debug\net6.0\ref\Structure.dll

@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\AbstractClasses\bin\Debug\net6.0\AbstractClasses.exe
+G:\Code\csharp\csharp\Examples\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+G:\Code\csharp\csharp\Examples\AbstractClasses\bin\Debug\net6.0\AbstractClasses.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+G:\Code\csharp\csharp\Examples\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\AbstractClasses.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll

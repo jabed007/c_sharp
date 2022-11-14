@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Flow Control\bin\Debug\net6.0\Flow Control.exe
+G:\Code\csharp\csharp\Examples\Flow Control\bin\Debug\net6.0\Flow Control.deps.json
+G:\Code\csharp\csharp\Examples\Flow Control\bin\Debug\net6.0\Flow Control.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Flow Control\bin\Debug\net6.0\Flow Control.dll
+G:\Code\csharp\csharp\Examples\Flow Control\bin\Debug\net6.0\Flow Control.pdb
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.dll
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\refint\Flow Control.dll
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.pdb
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\Flow Control.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Flow Control\obj\Debug\net6.0\ref\Flow Control.dll
