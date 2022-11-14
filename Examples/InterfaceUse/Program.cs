@@ -14,6 +14,22 @@
 
             ICar hoverCraft2 = new HoverCraft();
             hoverCraft2.StopEngine();
+
+            ClassB classB = new ClassB();
+            classB.Method1();
+            classB.Method2();
+            classB.Method3();
+            classB.Method4();
+
+            ClassA classA = new ClassA();
+            classA.Method1();
+            classA.Method2();
+
+            ClassA classB2 = new ClassB(); // boxing
+            classB2.Method1();
+            classB2.Method2();
+
+            ClassB classB3 = (ClassB)classB2; // unboxing
         }
     }
 }
