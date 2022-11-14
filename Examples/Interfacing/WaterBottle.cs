@@ -14,7 +14,7 @@ namespace Interfacing
             Console.WriteLine("Open from WaterBottle class");
         }
 
-        public sealed override double GetCurrentContentAmount()
+        public override double GetCurrentContentAmount()
         {
             return base.GetCurrentContentAmount();
         }
