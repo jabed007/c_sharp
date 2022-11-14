@@ -7,6 +7,7 @@
             Form form = new Form();
             form.SetName("Md. Jabed Hossain");
             form.SetEmail("jabed.cse.21@gmail.com");
+            form.Reset();
         }
     }
 }

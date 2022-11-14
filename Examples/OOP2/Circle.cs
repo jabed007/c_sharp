@@ -17,5 +17,10 @@ namespace OOP2
         {
             return Math.PI * Radius * Radius;
         }
+
+        public new void SetColor(string color)
+        {
+            Color = "#" + color;
+        }
     }
 }

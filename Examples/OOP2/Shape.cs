@@ -9,7 +9,7 @@ namespace OOP2
     public abstract class Shape
     {
         public string Name { get; private set; }
-        public string Color { get; private set; }
+        public string Color { get; protected set; }
         public Shape(string name)
         {
             Name = name;
