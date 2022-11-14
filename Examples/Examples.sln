@@ -17,23 +17,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{4EBBB86F-3363-45BC-84A8-E28D96816E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{4B6E31A3-F371-4D72-BE17-60F74D817E47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{4B6E31A3-F371-4D72-BE17-60F74D817E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfacing", "Interfacing\Interfacing.csproj", "{19E50D77-51F0-4A90-999B-F22C2D58208D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfacing", "Interfacing\Interfacing.csproj", "{19E50D77-51F0-4A90-999B-F22C2D58208D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{E320DA0C-B04A-4C10-8BE1-650740CC6F7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{E320DA0C-B04A-4C10-8BE1-650740CC6F7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structure", "Structure\Structure.csproj", "{AEEF5526-8966-4F11-83BD-B2C07FF9AAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structure", "Structure\Structure.csproj", "{AEEF5526-8966-4F11-83BD-B2C07FF9AAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{670F020C-09D0-475B-A9CF-73CDB05CEFFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{670F020C-09D0-475B-A9CF-73CDB05CEFFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{12BA6DAD-F9CA-4C86-8577-C46111B0D516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{12BA6DAD-F9CA-4C86-8577-C46111B0D516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTest", "OOPTest\OOPTest.csproj", "{16FE185A-992B-401B-8128-3F17D9740A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPTest", "OOPTest\OOPTest.csproj", "{16FE185A-992B-401B-8128-3F17D9740A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{881FF00B-7C49-4A94-AD10-69195E6D1F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\StaticClass.csproj", "{881FF00B-7C49-4A94-AD10-69195E6D1F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceUse", "InterfaceUse\InterfaceUse.csproj", "{6D0D38FA-D923-48BF-8BC9-788D6BA03953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceUse", "InterfaceUse\InterfaceUse.csproj", "{6D0D38FA-D923-48BF-8BC9-788D6BA03953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassExample", "PartialClassExample\PartialClassExample.csproj", "{AB36A85F-0606-4376-8F40-30CB65AAC35B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{6D0D38FA-D923-48BF-8BC9-788D6BA03953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0D38FA-D923-48BF-8BC9-788D6BA03953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0D38FA-D923-48BF-8BC9-788D6BA03953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB36A85F-0606-4376-8F40-30CB65AAC35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB36A85F-0606-4376-8F40-30CB65AAC35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB36A85F-0606-4376-8F40-30CB65AAC35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB36A85F-0606-4376-8F40-30CB65AAC35B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
