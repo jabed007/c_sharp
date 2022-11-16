@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceUse", "InterfaceUse\InterfaceUse.csproj", "{6D0D38FA-D923-48BF-8BC9-788D6BA03953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassExample", "PartialClassExample\PartialClassExample.csproj", "{AB36A85F-0606-4376-8F40-30CB65AAC35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClassExample", "PartialClassExample\PartialClassExample.csproj", "{AB36A85F-0606-4376-8F40-30CB65AAC35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureExample", "StructureExample\StructureExample.csproj", "{3C732E59-92F5-468E-AD2D-B4CD13339587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructureExample", "StructureExample\StructureExample.csproj", "{3C732E59-92F5-468E-AD2D-B4CD13339587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExamples", "EnumExamples\EnumExamples.csproj", "{17DB102B-0BA9-4877-9FFF-4E5F4A4BFEE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{3C732E59-92F5-468E-AD2D-B4CD13339587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C732E59-92F5-468E-AD2D-B4CD13339587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C732E59-92F5-468E-AD2D-B4CD13339587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DB102B-0BA9-4877-9FFF-4E5F4A4BFEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DB102B-0BA9-4877-9FFF-4E5F4A4BFEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DB102B-0BA9-4877-9FFF-4E5F4A4BFEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DB102B-0BA9-4877-9FFF-4E5F4A4BFEE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

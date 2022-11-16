@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\EnumExamples\bin\Debug\net6.0\EnumExamples.exe
+G:\Code\csharp\csharp\Examples\EnumExamples\bin\Debug\net6.0\EnumExamples.deps.json
+G:\Code\csharp\csharp\Examples\EnumExamples\bin\Debug\net6.0\EnumExamples.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\EnumExamples\bin\Debug\net6.0\EnumExamples.dll
+G:\Code\csharp\csharp\Examples\EnumExamples\bin\Debug\net6.0\EnumExamples.pdb
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.dll
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\refint\EnumExamples.dll
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.pdb
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\EnumExamples.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\EnumExamples\obj\Debug\net6.0\ref\EnumExamples.dll
