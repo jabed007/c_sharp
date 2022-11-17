@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\ParameterModifier\bin\Debug\net6.0\ParameterModifier.exe
+G:\Code\csharp\csharp\Examples\ParameterModifier\bin\Debug\net6.0\ParameterModifier.deps.json
+G:\Code\csharp\csharp\Examples\ParameterModifier\bin\Debug\net6.0\ParameterModifier.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\ParameterModifier\bin\Debug\net6.0\ParameterModifier.dll
+G:\Code\csharp\csharp\Examples\ParameterModifier\bin\Debug\net6.0\ParameterModifier.pdb
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.dll
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\refint\ParameterModifier.dll
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.pdb
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ParameterModifier.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\ParameterModifier\obj\Debug\net6.0\ref\ParameterModifier.dll
