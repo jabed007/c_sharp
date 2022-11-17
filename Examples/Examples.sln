@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilders", "StringBui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterModifier", "ParameterModifier\ParameterModifier.csproj", "{0A2C6343-38E4-49FB-8C0E-D0720AADB807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{848DF41D-1CA5-48EA-9599-63A1ABD9391E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{0A2C6343-38E4-49FB-8C0E-D0720AADB807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2C6343-38E4-49FB-8C0E-D0720AADB807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2C6343-38E4-49FB-8C0E-D0720AADB807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848DF41D-1CA5-48EA-9599-63A1ABD9391E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848DF41D-1CA5-48EA-9599-63A1ABD9391E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848DF41D-1CA5-48EA-9599-63A1ABD9391E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848DF41D-1CA5-48EA-9599-63A1ABD9391E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
