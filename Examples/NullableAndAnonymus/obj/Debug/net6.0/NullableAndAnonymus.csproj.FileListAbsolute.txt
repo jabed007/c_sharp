@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\bin\Debug\net6.0\NullableAndAnonymus.exe
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\bin\Debug\net6.0\NullableAndAnonymus.deps.json
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\bin\Debug\net6.0\NullableAndAnonymus.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\bin\Debug\net6.0\NullableAndAnonymus.dll
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\bin\Debug\net6.0\NullableAndAnonymus.pdb
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.dll
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\refint\NullableAndAnonymus.dll
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.pdb
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\NullableAndAnonymus.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\NullableAndAnonymus\obj\Debug\net6.0\ref\NullableAndAnonymus.dll
