@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\DateTimes\bin\Debug\net6.0\DateTimes.exe
+G:\Code\csharp\csharp\Examples\DateTimes\bin\Debug\net6.0\DateTimes.deps.json
+G:\Code\csharp\csharp\Examples\DateTimes\bin\Debug\net6.0\DateTimes.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\DateTimes\bin\Debug\net6.0\DateTimes.dll
+G:\Code\csharp\csharp\Examples\DateTimes\bin\Debug\net6.0\DateTimes.pdb
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.dll
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\refint\DateTimes.dll
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.pdb
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\DateTimes.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\DateTimes\obj\Debug\net6.0\ref\DateTimes.dll
