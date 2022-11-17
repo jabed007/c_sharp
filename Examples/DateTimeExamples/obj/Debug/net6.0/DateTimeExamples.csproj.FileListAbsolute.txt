@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\DateTimeExamples\bin\Debug\net6.0\DateTimeExamples.exe
+G:\Code\csharp\csharp\Examples\DateTimeExamples\bin\Debug\net6.0\DateTimeExamples.deps.json
+G:\Code\csharp\csharp\Examples\DateTimeExamples\bin\Debug\net6.0\DateTimeExamples.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\DateTimeExamples\bin\Debug\net6.0\DateTimeExamples.dll
+G:\Code\csharp\csharp\Examples\DateTimeExamples\bin\Debug\net6.0\DateTimeExamples.pdb
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.dll
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\refint\DateTimeExamples.dll
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.pdb
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\DateTimeExamples.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\DateTimeExamples\obj\Debug\net6.0\ref\DateTimeExamples.dll
