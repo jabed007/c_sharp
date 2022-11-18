@@ -34,5 +34,22 @@
             
             return sum / numbers.Length;
         }
+
+        public static void UpdateValue1(in double value)
+        {
+            // We can only receive value but cant modify thats mean we cant change the value of the value paramter
+            //value = 1000; // error
+        }
+
+        public static void UpdateValue2(out double value)
+        {
+            // When we use out parameter modifier we must changes the value of the paramter variable
+            value = 100;
+        }
+
+        public static void UpdateValue3(ref double value)
+        {
+
+        }
     }
 }
