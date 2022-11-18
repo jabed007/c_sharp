@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\TupleExample\bin\Debug\net6.0\TupleExample.exe
+G:\Code\csharp\csharp\Examples\TupleExample\bin\Debug\net6.0\TupleExample.deps.json
+G:\Code\csharp\csharp\Examples\TupleExample\bin\Debug\net6.0\TupleExample.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\TupleExample\bin\Debug\net6.0\TupleExample.dll
+G:\Code\csharp\csharp\Examples\TupleExample\bin\Debug\net6.0\TupleExample.pdb
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.dll
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\refint\TupleExample.dll
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.pdb
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\TupleExample.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\TupleExample\obj\Debug\net6.0\ref\TupleExample.dll

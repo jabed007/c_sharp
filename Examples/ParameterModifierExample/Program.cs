@@ -49,7 +49,7 @@
 
         public static void UpdateValue3(ref double value)
         {
-
+            // When we use ref we can either change or modify the paramter or not modify the paramter
         }
     }
 }
