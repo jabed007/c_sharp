@@ -56,6 +56,14 @@
             stack.Push(3);
             stack.Push(5);
             Console.WriteLine(stack.Pop());
+            Console.WriteLine(stack.Count);
+            Console.WriteLine(stack.Peek());
+
+            // Queue
+            Queue<int> queue = new Queue<int>();
+            queue.Enqueue(1);
+            queue.Enqueue(2);
+            Console.WriteLine(queue.Dequeue());
             #endregion
         }
     }
