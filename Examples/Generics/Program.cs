@@ -84,4 +84,21 @@
         public double X { get; set; }
         public double Y { get; set; }
     }
+
+    // Generics Method
+    public static class Printer<X>
+    {
+        public static void Print<T>(T item) where T : struct
+        {
+            T x = default(T);
+            X a = default(X);
+            Console.WriteLine(item);
+        }
+
+        public static void Revert()
+        {
+            T t = default(T); // error
+            X x = default(X);
+        }
+    }
 }

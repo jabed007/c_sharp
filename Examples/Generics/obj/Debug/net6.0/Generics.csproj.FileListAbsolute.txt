@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\Examples\Generics\bin\Debug\net6.0\Generics.exe
+G:\Code\csharp\csharp\Examples\Generics\bin\Debug\net6.0\Generics.deps.json
+G:\Code\csharp\csharp\Examples\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+G:\Code\csharp\csharp\Examples\Generics\bin\Debug\net6.0\Generics.dll
+G:\Code\csharp\csharp\Examples\Generics\bin\Debug\net6.0\Generics.pdb
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.dll
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\refint\Generics.dll
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.pdb
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+G:\Code\csharp\csharp\Examples\Generics\obj\Debug\net6.0\ref\Generics.dll
