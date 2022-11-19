@@ -51,6 +51,11 @@
             items[key] = 33.5;
             double back = items[key];
 
+            // Stack
+            Stack<int> stack = new Stack<int>();
+            stack.Push(3);
+            stack.Push(5);
+            Console.WriteLine(stack.Pop());
             #endregion
         }
     }
@@ -64,7 +69,7 @@
         public T Y { get; set; }
     }
 
-    public class Point2<T, D> where T:class, new() where D:struct // Multiple Parameterized Generics class
+    public class Point2<T, D> where T:struct where D:struct // Multiple Parameterized Generics class
     {
         public T X { get; set; }
         public D Y { get; set; }
@@ -92,7 +97,7 @@
 
     public class Tree<T>
     {
-        private T[] nodes;
+        private T[] nodes = new T[100];
         private int index = 0;
         public void AddNode(T node)
         {
@@ -125,7 +130,7 @@
 
         public static void Revert()
         {
-            T t = default(T); // error
+            //T t = default(T); // error
             X x = default(X);
         }
     }
