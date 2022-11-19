@@ -37,7 +37,7 @@
             };
 
             // Uses of Tuple
-            (int id, double price)[] r = new (int id, double price)[2];
+            (int id, double price)[] r = new (int id, double price)[2]; // Tuple
             int count = 0;
 
             for (int i = 0; i < customers.Length; i++)

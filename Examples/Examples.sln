@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableAndAnonymus", "Null
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilderExample", "StringBuilderExample\StringBuilderExample.csproj", "{FA8923D8-65F3-4CAD-956E-589ADA538C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterModifierExample", "ParameterModifierExample\ParameterModifierExample.csproj", "{DA7090DB-3633-4806-9E81-31C9B937C639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParameterModifierExample", "ParameterModifierExample\ParameterModifierExample.csproj", "{DA7090DB-3633-4806-9E81-31C9B937C639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleExample", "TupleExample\TupleExample.csproj", "{82A5CF40-80C1-4423-8012-FCBB8DF1B224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TupleExample", "TupleExample\TupleExample.csproj", "{82A5CF40-80C1-4423-8012-FCBB8DF1B224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{773F4FEF-81AB-4A43-9169-15D554261454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{82A5CF40-80C1-4423-8012-FCBB8DF1B224}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82A5CF40-80C1-4423-8012-FCBB8DF1B224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82A5CF40-80C1-4423-8012-FCBB8DF1B224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773F4FEF-81AB-4A43-9169-15D554261454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773F4FEF-81AB-4A43-9169-15D554261454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773F4FEF-81AB-4A43-9169-15D554261454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773F4FEF-81AB-4A43-9169-15D554261454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
