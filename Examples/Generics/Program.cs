@@ -29,6 +29,29 @@
 
             string item = tree.RemoveNode("XYZ");
             Console.WriteLine(item);
+
+            Printer<int>.Print<double>(5.5);
+
+            #region Built in C# Generics
+
+            // List
+            List<int> list = new List<int>();
+            list.Add(1);
+            list[0] = 2;
+
+            // Dictionary
+            // Dictionary is a key value pair generics that means it take two parameter in generics
+            // 1. Key 2. Value
+            Dictionary<string, double> weights = new Dictionary<string, double>();
+            weights["Jalal Uddin"] = 87.5;
+            weights["Tareq"] = 78.5;
+
+            Dictionary<Item, double> items = new Dictionary<Item, double>();
+            Item key = new Item();
+            items[key] = 33.5;
+            double back = items[key];
+
+            #endregion
         }
     }
 
@@ -50,6 +73,11 @@
         //{
         //    return X + Y; // error
         //}
+    }
+
+    public class Item
+    {
+        public int X { get; set; }
     }
 
     public interface Isumable
