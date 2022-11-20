@@ -83,7 +83,13 @@
             ages2["Jalal Uddin"] = 58;
             ages2["Ahmed"] = 99;
             ages2["Tareq"] = 43;
+
             #endregion
+
+            #region Non Generic Collection
+
+            #endregion
+
         }
     }
 
