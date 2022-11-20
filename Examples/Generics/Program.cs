@@ -64,6 +64,25 @@
             queue.Enqueue(1);
             queue.Enqueue(2);
             Console.WriteLine(queue.Dequeue());
+
+            // Sorted List
+            SortedList<string, int> ages = new SortedList<string, int>();
+            ages["Tareq"] = 64;
+            ages["Jalal Uddin"] = 58;
+            ages["Ahmed"] = 99;
+            ages["Tareq"] = 43;
+
+            foreach(var i in ages)
+            {
+                Console.WriteLine($"Key: {i.Key}, Value: {i.Value}");
+            }
+
+            // Soretd Dictionary
+            SortedDictionary<string, int> ages2  = new SortedDictionary<string, int>();
+            ages2["Tareq"] = 64;
+            ages2["Jalal Uddin"] = 58;
+            ages2["Ahmed"] = 99;
+            ages2["Tareq"] = 43;
             #endregion
         }
     }
