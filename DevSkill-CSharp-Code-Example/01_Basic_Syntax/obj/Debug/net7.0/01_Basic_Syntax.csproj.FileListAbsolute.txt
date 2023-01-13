@@ -1,0 +1,15 @@
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\bin\Debug\net7.0\01_Basic_Syntax.exe
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\bin\Debug\net7.0\01_Basic_Syntax.deps.json
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\bin\Debug\net7.0\01_Basic_Syntax.runtimeconfig.json
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\bin\Debug\net7.0\01_Basic_Syntax.dll
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\bin\Debug\net7.0\01_Basic_Syntax.pdb
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.csproj.AssemblyReference.cache
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.AssemblyInfoInputs.cache
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.AssemblyInfo.cs
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.csproj.CoreCompileInputs.cache
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.dll
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\refint\01_Basic_Syntax.dll
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.pdb
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\01_Basic_Syntax.genruntimeconfig.cache
+G:\Code\csharp\csharp\DevSkill-CSharp-Code-Example\01_Basic_Syntax\obj\Debug\net7.0\ref\01_Basic_Syntax.dll
